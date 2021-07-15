@@ -6,6 +6,7 @@ using namespace std;
 int main(void){
     int T, k, n;
     char cmd;
+    
     cin >> T;
     while(T--){
         cin >> k;
