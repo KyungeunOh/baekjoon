@@ -25,5 +25,4 @@ int main(){
         q.pop(); // 2nd element
     }
     printf("%d",n);
-
 }

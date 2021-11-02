@@ -6,6 +6,10 @@ using namespace std;
 int main(void){
     int T, k, n;
     char cmd;
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 969517042ed4f2c3cd876d9956559effa92bdc59
     cin >> T;
     while(T--){
         cin >> k;
@@ -29,4 +33,8 @@ int main(void){
             cout << *itr << ' ' << *ms.begin() << '\n';
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 969517042ed4f2c3cd876d9956559effa92bdc59
